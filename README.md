@@ -1,2 +1,2 @@
-# Script_Kiddie_Hub
+# Script Kiddie Hub
 My personal blog where I post writeups and other cybersecurity news...
